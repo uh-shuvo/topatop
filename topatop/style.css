@@ -1,0 +1,17 @@
+.my-img img {
+    filter: brightness(60%);
+}
+
+.border {
+    margin-top: 10px;
+}
+
+ul li {
+    float: left;
+    margin: 10px;
+    list-style: none;
+}
+
+.font i {
+    margin: 10px;
+}
